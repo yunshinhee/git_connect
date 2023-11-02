@@ -84,3 +84,10 @@ git push origin master
 #🔝여기까지 하면 github의 repository(webstandard파일)에 자료(원래 파일안에 들어가 있던것 css,img,html 등)가 올라가 있다.
 
 
+마지막 netlify에 업로드
+Sites -> Add new site
+![image](https://github.com/yunshinhee/git_connect/assets/145514638/8eb2f0f2-66a5-4d77-bb92-271d131bd510)
+파일 클릭
+Deploy webstandard
+
+
