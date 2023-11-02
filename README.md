@@ -32,6 +32,9 @@ $ git config --list
 
 #github에 코드 업로드하기
 
+vs에 업로드할 파일 넣기 -terminal
+파일에 숨김항목 체크 후 .git파일 생겼는지 확인 
+
 1.초기화
 
 ```
@@ -44,6 +47,7 @@ git init
 ```
 git add .
 ```
+
 3.히스토리 만들기
 ```
 git commit -m "내가 적고 싶은 메세지"
