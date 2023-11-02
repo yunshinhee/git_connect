@@ -16,3 +16,8 @@ $ git config --global user.email "tlsgml1225@naver.com"
 $ git config --list
 ```
 ![image](https://github.com/yunshinhee/git_connect/assets/145514638/f9099e81-3b06-4255-970e-cc198b0bed2c)
+
+🔝위의 내용은 컴퓨터에 한번만 설치하면 됨 
+
+이모키콘 :알파벳 🥐🥖🍞
+-------------------------------------------
