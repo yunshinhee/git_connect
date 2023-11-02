@@ -11,3 +11,8 @@ $ git config --global user.name "whasun"
 ```
 $ git config --global user.email "tlsgml1225@naver.com" 
 ```
+#정보확인하기
+```
+$ git config --list
+```
+![image](https://github.com/yunshinhee/git_connect/assets/145514638/f9099e81-3b06-4255-970e-cc198b0bed2c)
