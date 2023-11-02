@@ -71,7 +71,7 @@ git remote add origin https://github.com/yunshinhee/webstandard.git(복사)
 
 5.잘 연결되었는지 확인(필수 아님)
 ```
-git remote-v
+git remote -v
 ```
 
 6.github에 자료 올리기
