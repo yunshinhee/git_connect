@@ -78,7 +78,8 @@ git remote -v
 ```
 git push origin master
 ```
-![image](https://github.com/yunshinhee/git_connect/assets/145514638/76c996a7-6a92-4b8e-96ea-2f010ac759c3)
+![image](https://github.com/yunshinhee/git_connect/assets/145514638/1612da10-9428-49e9-b9e1-34ec61416be5)
+
 
 #🔝여기까지 하면 github의 repository(webstandard파일)에 자료(원래 파일안에 들어가 있던것 css,img,html 등)가 올라가 있다.
 
