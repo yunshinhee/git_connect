@@ -30,10 +30,13 @@ $ git config --list
 -------------------
 -------------------(줄은 짧아도 끝까지 실행됨)
 
+
+
 #github에 코드 업로드하기
 
 vs에 업로드할 파일 넣기 -terminal
 파일에 숨김항목 체크 후 .git파일 생겼는지 확인 
+
 
 1.초기화
 
@@ -43,10 +46,12 @@ git init
 #.git이라는 폴더가 생성된다
 
 
+
 2.파일 올리기 
 ```
 git add .
 ```
+
 
 3.히스토리 만들기
 ```
@@ -54,6 +59,7 @@ git commit -m "내가 적고 싶은 메세지"
 ```
 메세지에는 한글이 가능함
 -m는 메세지의 준말
+
 
 4.github repository랑 내 로컬 프로젝트랑 연결(깃업에 프로젝트를 올릴 repository를 먼저 만들어야한다)
 예시: webstandard파일 만들기(repository를 만들때 Add a README file체크 X)-commit changes(저장)
@@ -64,10 +70,12 @@ git commit -m "내가 적고 싶은 메세지"
 git remote add origin https://github.com/yunshinhee/webstandard.git(복사)
 ```
 
+
 5.잘 연결되었는지 확인(필수 아님)
 ```
 git remote-v
 ```
+
 6.github에 자료 올리기
 ```
 git push origin master
