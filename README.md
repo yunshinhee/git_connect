@@ -56,7 +56,10 @@ git commit -m "내가 적고 싶은 메세지"
 -m는 메세지의 준말
 
 4.github repository랑 내 로컬 프로젝트랑 연결(깃업에 프로젝트를 올릴 repository를 먼저 만들어야한다)
-#아래 주소는 깃헙에서 만든 repository에서 복사해서 가져와야한다(repository를 만들때 readme선택하지 말기)
+예시: webstandard파일 만들기(repository를 만들때 Add a README file체크 X)-commit changes(저장)
+
+#아래 주소는 깃헙에서 만든 repository에서 복사해서 가져와야한다
+![image](https://github.com/yunshinhee/git_connect/assets/145514638/3b423407-ac42-4844-9d08-1a0a0b91c1a6)
 ```
 git remote add origin https://github.com/yunshinhee/webstandard.git(복사)
 ```
@@ -69,4 +72,8 @@ git remote-v
 ```
 git push origin master
 ```
-#🔝여기까지 하면 github의 repository에 자료가 올라가 있다.
+![image](https://github.com/yunshinhee/git_connect/assets/145514638/76c996a7-6a92-4b8e-96ea-2f010ac759c3)
+
+#🔝여기까지 하면 github의 repository(webstandard파일)에 자료(원래 파일안에 들어가 있던것 css,img,html 등)가 올라가 있다.
+
+
