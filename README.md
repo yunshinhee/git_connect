@@ -80,6 +80,7 @@ git push origin master
 ```
 ![image](https://github.com/yunshinhee/git_connect/assets/145514638/1612da10-9428-49e9-b9e1-34ec61416be5)
 
+창이 뜨면 2번째꺼 누르고 암호 옮겨적기 
 
 #🔝여기까지 하면 github의 repository(webstandard파일)에 자료(원래 파일안에 들어가 있던것 css,img,html 등)가 올라가 있다.
 
