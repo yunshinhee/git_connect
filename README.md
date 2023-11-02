@@ -65,4 +65,4 @@ git remote-v
 ```
 git push origin master
 ```
-
+#🔝여기까지 하면 github의 repository에 자료가 올라가 있다.
