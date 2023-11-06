@@ -86,9 +86,10 @@ git push origin master
 #터미널에서 cls or clear 적으면 초기화 
 
 마지막 netlify에 업로드
-Sites -> Add new site
+Sites -> Add new site ->import an existing project
+![image](https://github.com/yunshinhee/git_connect/assets/145514638/711681fe-af4c-4192-8dfc-243f9fd932d0)
+
 ![image](https://github.com/yunshinhee/git_connect/assets/145514638/8eb2f0f2-66a5-4d77-bb92-271d131bd510)
-파일 클릭
-Deploy webstandard
+원하는 파일 눌러서 클릭 -> Deploy webstandard -> 업로드 되면 파일 이름바꾸기 
 
 
