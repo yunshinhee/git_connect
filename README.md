@@ -92,9 +92,8 @@ Sites -> Add new site ->import an existing project
 ![image](https://github.com/yunshinhee/git_connect/assets/145514638/8eb2f0f2-66a5-4d77-bb92-271d131bd510)
 
 
-원하는 파일 눌러서 클릭 -> Deploy webstandard -> 업로드 되면 파일 이름바꾸기 
+원하는 파일 눌러서 클릭 -> 맨 아래 Deploy( webstandard) 버튼 클릭!-> 업로드 되면 파일 이름바꾸기 
 
-deploy 버튼!
 ![image](https://github.com/yunshinhee/git_connect/assets/145514638/428bbe9a-05a8-4249-b73b-2492088b4987)
 
 ![image](https://github.com/yunshinhee/git_connect/assets/145514638/59d9ff37-b45c-4732-9e7a-7a7fd005d6f0)
