@@ -105,6 +105,7 @@ Sites -> Add new site ->import an existing project
 1.netlify에 업로드된 주소를 눌러서 들어가기
 ![image](https://github.com/yunshinhee/git_connect/assets/145514638/a56ae1ec-4d65-4523-92dd-d27af48728d8)
 2.사이트 주소 복사하기 
+
 ![image](https://github.com/yunshinhee/git_connect/assets/145514638/f284adf9-e293-4fb6-8118-648f70537181)
 3.html에 가서 연결하기 
 ![image](https://github.com/yunshinhee/git_connect/assets/145514638/767e7218-66e9-4d91-a781-b0ae915565be)
