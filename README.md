@@ -109,6 +109,40 @@ Sites -> Add new site ->import an existing project
 ![image](https://github.com/yunshinhee/git_connect/assets/145514638/f284adf9-e293-4fb6-8118-648f70537181)
 3.html에 가서 연결하기 
 ![image](https://github.com/yunshinhee/git_connect/assets/145514638/767e7218-66e9-4d91-a781-b0ae915565be)
+-------------------------------------------------------------------------------------------------------
+#git hub에 계속 업데이트 하는 법/수정된 파일 올리는 법 ⭐⭐⭐⭐⭐⭐⭐⭐⭐
+1.추가할 파일 더하기
+ ```
+git add .
+```
+
+2.히스토리 만들기
+```
+git commit -m "두번째 수정(수정할 말)"
+```
+
+3.github에 올리기 
+```
+git push origin master
+```
+😠 단) 올릴 때 오류가 발생한다면
+
+#1. 다시 github의 내용을 끌어와야한다.
+```
+git pull origin master
+```
+#2. 히스토리만들기
+```
+git commit -m "메시지"
+
+#3. github에 올리기
+```
+git push origin master
+```
+#4. 그래도 안될때
+git push -u origin +master
+
+
 
 
 
